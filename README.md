@@ -14,12 +14,13 @@ Introduction:
 In this project, the task is to predict the taxi fare in New York City given the information about number of passengers, pickup and dropoff locations, and the pickup datetime. The NYC TAXI FARE dataset consists of 55 million training records since 2009 and 9914 test records which represent taxi trips in New York.To achieve this goal predicting NYC Cab fare, we split this project into three parts:
 
 **Part I** : Data pre-processing and Exploratory Data Analysis (EDA)
-ta cleaning, Data Exploration
-ta visualization, and
-Îture engineering, Feature Selection
-
+<ul>
+  <li>Data cleaning, data Exploration</li>
+  <li>Data visualization, and</li>
+  <li>Feature engineering, Feature Selection</li>
+</ul>
 **Part II**: Predictive Modelling
-Î
+ÃŽ
 del Evaluation
 del Evaluation
 
@@ -81,8 +82,8 @@ To achieve this goal predicting NYC Cab fare, we split this project into three p
 Part I: Data pre-processing and Exploratory Data Analysis (EDA)
 ta cleaning, Data Exploration
 ta visualization, and
-Îture engineering, Feature Selection
+ÃŽture engineering, Feature Selection
 
 Part II: Predictive Modelling
-Î
+ÃŽ
 Taxi Fare Prediction
