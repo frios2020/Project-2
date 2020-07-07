@@ -19,11 +19,11 @@ In this project, the task is to predict the taxi fare in New York City given the
   <li>Data visualization, and</li>
   <li>Feature engineering, Feature Selection</li>
 </ul>
-**Part II**: Predictive Modelling
+**Part II** : Predictive Modelling
 <ul>
   <li>Model Evaluation</li>
- <ul>
-**Part III**: Submission
+<ul>
+**Part III** : Submission
 
 
 ###Setup
