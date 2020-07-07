@@ -70,6 +70,6 @@ Part I: Data pre-processing and Exploratory Data Analysis (EDA)
 Part II: Predictive Modelling
 Part III: Submission
 
-
+To details about the project including models used and results, please read this [document](CONTRIBUTING.md)document.<br>
 All contributions are welcome!
 
