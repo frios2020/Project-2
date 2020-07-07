@@ -9,7 +9,7 @@ Teaching Assistant Michael Lam (PhD student)
 
 Students:<br>Fernando Rios<br>Hassan Ouanir<br>Ian Kavuma
 
-Introduction:
+**Introduction:**
 
 In this project, the task is to predict the taxi fare in New York City given the information about number of passengers, pickup and dropoff locations, and the pickup datetime. The NYC TAXI FARE dataset consists of 55 million training records since 2009 and 9914 test records which represent taxi trips in New York.To achieve this goal predicting NYC Cab fare, we split this project into three parts:
 
@@ -23,7 +23,7 @@ In this project, the task is to predict the taxi fare in New York City given the
 
 **Part III** : Submission
 
-###Setup
+**Setup**
 This notebook is prepared to run easily, just copy the files:
 kaggle.json, nyc_mask.png and, boxdefined.png in your google drive, after that, open the file NYC TAXI FARE PROJECT/NJIT.ipynb
 
@@ -70,16 +70,4 @@ Part III: Submission
 
 
 All contributions are welcome!
-In this project, the task is to predict the taxi fare in New York City given the information about number of passengers, pickup and dropoff locations, and the pickup datetime. The NYC TAXI FARE dataset consists of 55 million training records since 2009 and 9914 test records which represent taxi trips in New York.
-
-To achieve this goal predicting NYC Cab fare, we split this project into three parts:
-
-Part I: Data pre-processing and Exploratory Data Analysis (EDA)
-ta cleaning, Data Exploration
-ta visualization, and
-Îture engineering, Feature Selection
-
-Part II: Predictive Modelling
-Î
-Taxi Fare Prediction
 
