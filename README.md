@@ -26,7 +26,6 @@ In this project, the task is to predict the taxi fare in New York City given the
 **Part III** : Submission
 
 ###Setup
-
 This notebook is prepared to run easily, just copy the files:
 kaggle.json, nyc_mask.png and, boxdefined.png in your google drive, after that, open the file NYC TAXI FARE PROJECT/NJIT.ipynb
 
