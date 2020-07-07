@@ -22,9 +22,8 @@ In this project, the task is to predict the taxi fare in New York City given the
 **Part II** : Predictive Modelling
 <ul>
   <li>Model Evaluation</li>
-<ul>
+</ul>
 **Part III** : Submission
-
 
 ###Setup
 
