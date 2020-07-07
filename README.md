@@ -1,9 +1,9 @@
 Project 2: NYC TAXI FARE PREDICTION PROJECT
 ===========================================
 
-NJIT Data Science Program
-Course
-CS634 Data Mining - Summer 2020
+NJIT Data Science Program<br>
+Course<br>
+CS634 Data Mining - Summer 2020<br>
 Instructor Pantelis Monogioudis, Ph.D Professor of Practice, NJIT & Adjunct NYU
 Teaching Assistant Michael Lam (PhD student)
 
