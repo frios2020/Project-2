@@ -28,7 +28,7 @@ This notebook is prepared to run easily, just copy the files:
 - kaggle.json
 - nyc_mask.png and, 
 - boxdefined.png in your google drive.
-After that, open the file NYC TAXI FARE PROJECT/NJIT.ipynb and select option run all in google colab. 
+After that, open the file NYC TAXI FARE PROJECT/NJIT.ipynb and select option run all in google colab. <br>
 
 In its lines this notebook do these steps to have ready the dataset.
 
